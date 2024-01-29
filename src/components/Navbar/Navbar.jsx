@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { MdOutlineRestaurantMenu } from "react-icons/md";
 
-import images from "../../constants/images";
-
+// import images from "../../constants/images";
+// import logoo from "../../assets/logoo.png"
 import "./Navbar.css";
 
 const Navbar = () => {
@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <img src={images.gourmet} alt="app logo" />
+       <a href="#home"><h1 className="logo-name" >HABESHA HAVEN</h1></a>
       </div>
       <ul className="app__navbar-links">
         <li className="p__opensans">

@@ -13,9 +13,9 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact us</h1>
-        <p className="p__opensans">Ratajczaka 69, 61-891 Poznań, Poland</p>
-        <p className="p__opensans">(+48)721-343-699</p>
-        <p className="p__opensans">(+48)721-545-688</p>
+        <p className="p__opensans">Natnaeleskinder41@gmail.com</p>
+        <p className="p__opensans">(+251)975-086-006</p>
+        <p className="p__opensans">(+251)704-218-422</p>
       </div>
       <div className="app__footer-links_logo">
         <img src={images.gourmet} alt="footer_logo" />
@@ -44,7 +44,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="footer__copyright">
-      <p className="p__opensans">2022 Nathan. All Rights Reserved.</p>
+      <p className="p__opensans">2024 Natnael. All Rights Reserved.</p>
     </div>
   </div>
 );

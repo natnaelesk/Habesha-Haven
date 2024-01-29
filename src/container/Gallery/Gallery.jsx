@@ -5,7 +5,7 @@ import {
   BsArrowRightShort,
 } from "react-icons/bs";
 import { SubHeading } from "../../components";
-import { images, data } from "../../constants";
+import { images } from "../../constants";
 import "./Gallery.css";
 
 const galleryImages = [

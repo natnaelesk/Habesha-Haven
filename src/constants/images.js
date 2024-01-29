@@ -46,4 +46,5 @@ export default {
   quote,
   gericht,
   gourmet,
+
 };
